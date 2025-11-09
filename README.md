@@ -53,6 +53,7 @@ END
 
 
 **OUTPUT:**
+![WhatsApp Image 2025-11-09 at 13 16 58_43296727](https://github.com/user-attachments/assets/f46fd2e9-6f24-410c-9928-5d445ff1affb)
 
 **MEMORY WINDOW:**
 
@@ -113,6 +114,7 @@ DJNZ R7,LOOP1
 END
 
 **OUTPUT:**
+![WhatsApp Image 2025-11-09 at 13 16 32_65883743](https://github.com/user-attachments/assets/0806b4fb-9ab9-4e4c-b758-85f4e01904e4)
 
 **MEMORY WINDOW:** 
 
